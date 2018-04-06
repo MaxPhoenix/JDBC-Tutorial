@@ -1,0 +1,2 @@
+public class BatchProcessing {
+}
