@@ -10,6 +10,8 @@ public class FirstExample {
     static final String USER = "root";
     static final String PASS = "root";
 
+    //Some pointless comments for our project
+
     public static void main(String[] args) {
         Connection conn = null;
         Statement stmt = null;
